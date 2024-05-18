@@ -1,4 +1,4 @@
-Hi Hi, Everyone 👋
+ Hi, Everyone 👋
 
 🔭 I’m currently working on coding
 🌱 I’m currently learning typescript
